@@ -1,0 +1,11 @@
+C:\WPF\WPF_tutorials\WPF_tutorials\bin\Debug\WPF_tutorials.exe
+C:\WPF\WPF_tutorials\WPF_tutorials\bin\Debug\WPF_tutorials.pdb
+C:\WPF\WPF_tutorials\WPF_tutorials\obj\x86\Debug\MainWindow.baml
+C:\WPF\WPF_tutorials\WPF_tutorials\obj\x86\Debug\MainWindow.g.cs
+C:\WPF\WPF_tutorials\WPF_tutorials\obj\x86\Debug\App.g.cs
+C:\WPF\WPF_tutorials\WPF_tutorials\obj\x86\Debug\WPF_tutorials_MarkupCompile.cache
+C:\WPF\WPF_tutorials\WPF_tutorials\obj\x86\Debug\WPF_tutorials.g.resources
+C:\WPF\WPF_tutorials\WPF_tutorials\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\WPF\WPF_tutorials\WPF_tutorials\obj\x86\Debug\WPF_tutorials.csproj.GenerateResource.Cache
+C:\WPF\WPF_tutorials\WPF_tutorials\obj\x86\Debug\WPF_tutorials.exe
+C:\WPF\WPF_tutorials\WPF_tutorials\obj\x86\Debug\WPF_tutorials.pdb

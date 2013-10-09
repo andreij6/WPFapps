@@ -1,0 +1,1 @@
+c:\WPF\WPFtutorial1\WPFtutorial1\bin\Debug\WPFtutorial1.exe.config
